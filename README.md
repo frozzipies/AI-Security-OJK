@@ -12,3 +12,15 @@ Nama saya Farras Givari, dan saya adalah Professional Cybersecurity Trainer, Pen
 ## labs
 - https://ai.baradata.me/ (Self-Hosted LLM)
 - http://103.176.79.76:81/login.php (DVWA)
+- https://emkei.cz/ (Mail Spoof Test)
+- https://temp-mail.org/ (Temporary Mail)
+
+## why local llm works
+<img width="681" height="241" alt="Why Local LLM" src="https://github.com/user-attachments/assets/e25fb408-be77-4f08-ab53-2466c60f9496" />
+![Why Local LLM 2](https://github.com/user-attachments/assets/5a1ced9e-c229-4176-ab3a-05713d4b2776)
+
+
+
+## how local llm works
+![How Local LLM : Ollama Work](https://github.com/user-attachments/assets/ca50bf33-d91a-4c90-b379-55b1d25ad2c1)
+
