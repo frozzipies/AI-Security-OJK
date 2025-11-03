@@ -56,5 +56,8 @@ You are a senior cybersecurity analyst, analyze the provided security logs to id
 great prompt = great output
 <img width="2108" height="1470" alt="image" src="https://github.com/user-attachments/assets/c0282f1c-bdfa-4b41-91f3-ab792cf63eef" />
 <img width="1748" height="1034" alt="image" src="https://github.com/user-attachments/assets/c31cedb3-b198-4662-a62e-5f110dd60e0d" />
-![Uploading image.png…]()
+<img width="1878" height="1458" alt="image" src="https://github.com/user-attachments/assets/a52d438f-25ef-4a09-a2a6-f1a6b58a7ed3" />
+
+Referensi prompt chatgpt untuk cybersecurity
+https://github.com/DummyKitty/Cyber-Security-chatGPT-prompt
 
