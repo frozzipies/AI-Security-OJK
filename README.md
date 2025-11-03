@@ -36,6 +36,10 @@ https://medium.com/@springrod/why-you-should-use-local-models-a3fce1124c94
 Log server adalah file yang paling sering digunakan seorang security analyst untuk melakukan security incident handling dan threat intelligence. Karena melalui log, kita bisa melihat semua event yang terjadi pada server yang kita maintain.
 ![How Web Server Work](https://github.com/user-attachments/assets/e9d415b5-1ad4-4eed-a6c2-d5876f625451)
 
+<img width="832" height="260" alt="image" src="https://github.com/user-attachments/assets/023bae3e-167c-4101-80c8-27b99d540178" />
+<img width="515" height="237" alt="image" src="https://github.com/user-attachments/assets/c86925f8-a87b-4d4b-a54f-20918d7540cb" />
+
+
 ## chatgpt as security analyst
 ```
 You are a senior cybersecurity analyst, analyze the provided security logs to identify any potential security threats, anomalies, or indicators of compromise (IoCs).
