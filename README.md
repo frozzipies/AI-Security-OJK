@@ -7,6 +7,7 @@ Nama saya Farras Givari, dan saya adalah Professional Cybersecurity Trainer, Pen
 
 ## bug bounty experience
 Selama aktif di bug bounty, saya sudah berhasil melaporkan celah kerentanan dan dibayar oleh banyak perusahaan besar seperti Google, Facebook, Samsung, MetaMask, dan lain sebagainya. Serta saya berhasil meraup lebih dari 38k+ dari bug bounty.
+bug bounty portofolio - https://hackerone.com/frozzipies
 
 ## connect with me
 - https://linkedin.com/in/frozzipies
