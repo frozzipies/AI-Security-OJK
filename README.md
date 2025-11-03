@@ -72,3 +72,5 @@ https://shodan.io
 Referensi prompt chatgpt untuk cybersecurity
 https://github.com/DummyKitty/Cyber-Security-chatGPT-prompt
 
+
+https://brave.com/blog/unseeable-prompt-injections/
