@@ -5,6 +5,8 @@ Nama saya Farras Givari, dan saya adalah Professional Cybersecurity Trainer, Pen
 , dan telah menghasilkan 400+ report security research (termasuk pentest/bug bounty) dan 30+ YouTube videos tentang Cybersecurity Awareness dan Penetration Testing secara gratis untuk komunitas.
 <img width="2166" height="1218" alt="image" src="https://github.com/user-attachments/assets/d25a32f0-43ce-49a2-a1d3-6387f4719721" />
 
+## bug bounty experience
+Selama aktif di bug bounty, saya sudah berhasil melaporkan celah kerentanan dan dibayar oleh banyak perusahaan besar seperti Google, Facebook, Samsung, MetaMask, dan lain sebagainya. Serta saya berhasil meraup lebih dari 38k+ dari bug bounty.
 
 ## connect with me
 - https://linkedin.com/in/frozzipies
