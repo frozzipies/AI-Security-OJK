@@ -17,8 +17,7 @@ Nama saya Farras Givari, dan saya adalah Professional Cybersecurity Trainer, Pen
 
 ## why local llm works
 <img width="681" height="241" alt="Why Local LLM" src="https://github.com/user-attachments/assets/e25fb408-be77-4f08-ab53-2466c60f9496" />
-![Why Local LLM 2](https://github.com/user-attachments/assets/5a1ced9e-c229-4176-ab3a-05713d4b2776)
-
+<img width="681" height="241" alt="Why Local LLM" src="https://github.com/user-attachments/assets/b6cc599a-176b-4cfc-aeb6-bec75dba74d5" />
 
 
 ## how local llm works
