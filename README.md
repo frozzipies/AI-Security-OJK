@@ -46,7 +46,10 @@ Log server adalah file yang paling sering digunakan seorang security analyst unt
 ## chatgpt as security analyst
 ```
 You are a senior cybersecurity analyst, analyze the provided security logs to identify any potential security threats, anomalies, or indicators of compromise (IoCs).
+
+Here is the log:
 {Paste-malicious.log}
+
 1. Provide a summary of your key findings.
 2. Identify any specific suspicious activities (e.g., unauthorized access attempts, unusual file uploads, port scans).
 3. Assess the likelihood of a malicious attack.
