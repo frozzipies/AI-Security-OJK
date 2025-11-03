@@ -38,6 +38,8 @@ Log server adalah file yang paling sering digunakan seorang security analyst unt
 
 <img width="832" height="260" alt="image" src="https://github.com/user-attachments/assets/023bae3e-167c-4101-80c8-27b99d540178" />
 <img width="515" height="237" alt="image" src="https://github.com/user-attachments/assets/c86925f8-a87b-4d4b-a54f-20918d7540cb" />
+<img width="5197" height="1969" alt="image" src="https://github.com/user-attachments/assets/13d73012-4b3d-4ede-88f0-54c724c4990c" />
+
 
 
 ## chatgpt as security analyst
