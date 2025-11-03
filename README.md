@@ -47,7 +47,7 @@ Log server adalah file yang paling sering digunakan seorang security analyst unt
 ```
 You are a senior cybersecurity analyst, analyze the provided security logs to identify any potential security threats, anomalies, or indicators of compromise (IoCs).
 
-Here is the log:
+Analyze this log
 {Paste-malicious.log}
 
 1. Provide a summary of your key findings.
