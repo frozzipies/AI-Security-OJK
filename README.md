@@ -65,6 +65,9 @@ great prompt = great output
 THreat intelligence adalah suatu teknik yang dilakukan oleh security engineer untuk mencari celah kerentanan pada suatu sistem infrastuktur yang mereka miliki. Dan Shodan adalah salah satu platform terbaik untuk melakukan threat intelligence, tetapi shodan memiliki banyak query yang sangat rumit dan kompleks, oleh karena itu kita bisa memanfaatkan LLM seperti chatgpt untuk generate search query untuk mempermudah dalam melakukan threat intelligence analysis.
 https://shodan.io
 
+<img width="1976" height="1116" alt="image" src="https://github.com/user-attachments/assets/c084c7c8-fe90-4984-bdba-41565cc5fc50" />
+<img width="1646" height="1124" alt="image" src="https://github.com/user-attachments/assets/1810936c-7f3c-4e18-9c39-597a9f351307" />
+<img width="1718" height="1118" alt="image" src="https://github.com/user-attachments/assets/4caef537-0f10-4b09-8729-a413f9eae4b7" />
 
 Referensi prompt chatgpt untuk cybersecurity
 https://github.com/DummyKitty/Cyber-Security-chatGPT-prompt
