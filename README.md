@@ -61,6 +61,11 @@ great prompt = great output
 <img width="1748" height="1034" alt="image" src="https://github.com/user-attachments/assets/c31cedb3-b198-4662-a62e-5f110dd60e0d" />
 <img width="1878" height="1458" alt="image" src="https://github.com/user-attachments/assets/a52d438f-25ef-4a09-a2a6-f1a6b58a7ed3" />
 
+## chatgpt as threat intellgence analyst (via shodan)
+THreat intelligence adalah suatu teknik yang dilakukan oleh security engineer untuk mencari celah kerentanan pada suatu sistem infrastuktur yang mereka miliki. Dan Shodan adalah salah satu platform terbaik untuk melakukan threat intelligence, tetapi shodan memiliki banyak query yang sangat rumit dan kompleks, oleh karena itu kita bisa memanfaatkan LLM seperti chatgpt untuk generate search query untuk mempermudah dalam melakukan threat intelligence analysis.
+https://shodan.io
+
+
 Referensi prompt chatgpt untuk cybersecurity
 https://github.com/DummyKitty/Cyber-Security-chatGPT-prompt
 
