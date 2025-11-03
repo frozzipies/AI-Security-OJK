@@ -9,3 +9,6 @@ Nama saya Farras Givari, dan saya adalah Professional Cybersecurity Trainer, Pen
 - https://youtube.com/@Meta4sec
 - https://dsc.gg/meta4sec
 
+## labs
+- https://ai.baradata.me/ (Self-Hosted LLM)
+- http://103.176.79.76:81/login.php (DVWA)
