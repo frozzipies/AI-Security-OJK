@@ -27,3 +27,8 @@ https://medium.com/@springrod/why-you-should-use-local-models-a3fce1124c94
 ## how local llm works / server architecture
 ![How Local LLM : Ollama Work](https://github.com/user-attachments/assets/ca50bf33-d91a-4c90-b379-55b1d25ad2c1)
 
+## basic pentest (recon) web-based tools
+- https://www.helium.sh/
+- https://pentest-tools.com/
+- https://www.wappalyzer.com/
+- 
